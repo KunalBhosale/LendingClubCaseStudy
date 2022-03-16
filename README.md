@@ -23,7 +23,7 @@
 
 ## Conclusions
 - certain data columns to affect the loan default %
-- loan grades, Loan purpose, dti seem to impact loan default column
+- loan grades, Loan purpose, loan_revol seem to impact loan default column
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
